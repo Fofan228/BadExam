@@ -1,0 +1,16 @@
+D:\Programm proects\FinalTry\FinalTry\bin\Debug\net5.0\FinalTry.exe
+D:\Programm proects\FinalTry\FinalTry\bin\Debug\net5.0\FinalTry.deps.json
+D:\Programm proects\FinalTry\FinalTry\bin\Debug\net5.0\FinalTry.runtimeconfig.json
+D:\Programm proects\FinalTry\FinalTry\bin\Debug\net5.0\FinalTry.runtimeconfig.dev.json
+D:\Programm proects\FinalTry\FinalTry\bin\Debug\net5.0\FinalTry.dll
+D:\Programm proects\FinalTry\FinalTry\bin\Debug\net5.0\ref\FinalTry.dll
+D:\Programm proects\FinalTry\FinalTry\bin\Debug\net5.0\FinalTry.pdb
+D:\Programm proects\FinalTry\FinalTry\obj\Debug\net5.0\FinalTry.csprojAssemblyReference.cache
+D:\Programm proects\FinalTry\FinalTry\obj\Debug\net5.0\FinalTry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programm proects\FinalTry\FinalTry\obj\Debug\net5.0\FinalTry.AssemblyInfoInputs.cache
+D:\Programm proects\FinalTry\FinalTry\obj\Debug\net5.0\FinalTry.AssemblyInfo.cs
+D:\Programm proects\FinalTry\FinalTry\obj\Debug\net5.0\FinalTry.csproj.CoreCompileInputs.cache
+D:\Programm proects\FinalTry\FinalTry\obj\Debug\net5.0\FinalTry.dll
+D:\Programm proects\FinalTry\FinalTry\obj\Debug\net5.0\ref\FinalTry.dll
+D:\Programm proects\FinalTry\FinalTry\obj\Debug\net5.0\FinalTry.pdb
+D:\Programm proects\FinalTry\FinalTry\obj\Debug\net5.0\FinalTry.genruntimeconfig.cache
